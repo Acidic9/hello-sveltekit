@@ -2515,10 +2515,10 @@ postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.27:
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-prettier-plugin-svelte@1.4.2:
-  version "1.4.2"
-  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-1.4.2.tgz#9a7968bbc78756670c816f22c0e83f98785031a0"
-  integrity sha512-O9VsNwII+raTG8QPoQWouk5ABQy/hmLm4dZ2eqJ7DPnbO35A+BxMSjlfqkw0cNP+UcbykHFYU8zNXm93ytWP9g==
+prettier-plugin-svelte@2.1.1:
+  version "2.1.1"
+  resolved "https://registry.yarnpkg.com/prettier-plugin-svelte/-/prettier-plugin-svelte-2.1.1.tgz#e6613cac4292b5bbda5250680565c131b0da5ced"
+  integrity sha512-U0gRsdJtveyusHd86OUPD+lEVd13bHPPF/CZD/csKjz0Y+Cv4WbUy9x8tA5vaHFtf0tsu8Yb1MrfuhN3GH2gig==
 
 prettier@2.2.1:
   version "2.2.1"
