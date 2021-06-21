@@ -23,7 +23,7 @@
 		"postcss": "8.2.1",
 		"postcss-cli": "8.3.1",
 		"prettier": "2.2.1",
-		"prettier-plugin-svelte": "1.4.2",
+		"prettier-plugin-svelte": "2.3.1",
 		"rustywind": "0.7.0",
 		"sirv": "1.0.10",
 		"svelte": "3.31.0",
